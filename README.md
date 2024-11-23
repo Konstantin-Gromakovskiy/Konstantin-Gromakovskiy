@@ -13,7 +13,7 @@ I want to continue my development in a new team and solve business problems for 
   * email: k.gromakovskiy@yandex.ru
  
 ### My skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nodejs,react,webpack,bootstrap,jquery,git,github,linux&perline=6])](https://skillicons.dev)
+[(https://skillicons.dev/icons?i=js,html,css,jest,nodejs,react,webpack,bootstrap,jquery,git,github,linux&perline=6])](https://skillicons.dev)
 
 <!--
 **Konstantin-Gromakovskiy/Konstantin-Gromakovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
