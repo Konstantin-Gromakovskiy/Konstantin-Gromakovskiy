@@ -1,5 +1,7 @@
 # Hi there! I'm Kostya! 👋
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 ## Frontend-developer 
 ---
 A frontend developer with more than six months of experience and a sincere love for his business. In my work, I appreciate the opportunity to be useful to clients and the team, and the opportunity to create convenient and useful products! My past experience working with people has taught me how to build productive communication, decompose and digitize tasks and build a roadmap to achieve my goals.
