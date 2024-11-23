@@ -17,10 +17,8 @@ I want to continue my development in a new team and solve business problems for 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jquery,webpack,sass,jest,bootstrap,babel,git&perline=6)](https://skillicons.dev)
 
 ## My experience:
-[Rss aggregator](https://github.com/Konstantin-Gromakovskiy/Rss-aggregator) - An application for reading and managing RSS feeds.
-
-[Difference finder](https://github.com/Konstantin-Gromakovskiy/Difference-finder) - CLI-application is designed to compare two files and output the result in different formats.
-
+[Rss aggregator](https://github.com/Konstantin-Gromakovskiy/Rss-aggregator) - An application for reading and managing RSS feeds./n
+[Difference finder](https://github.com/Konstantin-Gromakovskiy/Difference-finder) - CLI-application is designed to compare two files and output the result in different formats./n
 [Brain-games](https://github.com/Konstantin-Gromakovskiy/Brain-games) - A console application on node.js built on the principle of popular mobile applications for brain pumping.
 
 
