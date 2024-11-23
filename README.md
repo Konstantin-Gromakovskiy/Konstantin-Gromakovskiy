@@ -17,7 +17,7 @@ I want to continue my development in a new team and solve business problems for 
 ### My skills: 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nodejs,react,webpack,bootstrap,jquery,git,github,linux&perline=3])](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,&perline=3])](https://skillicons.dev)
 
 <!--
 **Konstantin-Gromakovskiy/Konstantin-Gromakovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
