@@ -1,6 +1,5 @@
 # Hi there! I'm Kostya! 👋
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## Frontend-developer 
 ---
@@ -16,6 +15,8 @@ I want to continue my development in a new team and solve business problems for 
  ---
  
 ### My skills: 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nodejs,react,webpack,bootstrap,jquery,git,github,linux&perline=3])](https://skillicons.dev)
 
 <!--
