@@ -10,7 +10,7 @@ I want to continue my development in a new team and solve business problems for 
 
 * Russia, Moscow
 * My contacts:
-  * Telegram: @KonstantinGromakovskiy
+  * Telegram: [@KonstantinGromakovskiy](https://t.me/KonstantinGromakovskiy)
   * email: k.gromakovskiy@yandex.ru
  
 ## My skills: 
