@@ -3,7 +3,7 @@
 
 ## Frontend-developer 
 
-A frontend developer with more than six months of experience and a sincere love for his business. In my work, I appreciate the opportunity to be useful to clients and the team, and the opportunity to create convenient and useful products! My past experience working with people has taught me how to build productive communication, decompose and digitize tasks and build a roadmap to achieve my goals.
+A frontend developer with more than six months of experience and a sincere love for my business. In my work, I appreciate the opportunity to be useful to clients and the team, and the opportunity to create convenient and useful products! My past experience working with people has taught me how to build productive communication, decompose and digitize tasks and build a roadmap to achieve my goals.
 
 During the practice, I managed to create several applications and mastered the basic and advanced aspects of development. I use TDD in development, I write structured and easy-to-read code. I am not afraid to master new technologies and apply them in practice.
 I want to continue my development in a new team and solve business problems for the success of the company!
