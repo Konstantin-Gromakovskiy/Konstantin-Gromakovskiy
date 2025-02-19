@@ -14,7 +14,7 @@ I want to continue my development in a new team and solve business problems for 
   * email: k.gromakovskiy@yandex.ru
  
 ## My skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jquery,webpack,sass,jest,bootstrap,babel,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jquery,vite,sass,jest,bootstrap,babel,git,ts,webstorm&perline=8)](https://skillicons.dev)
 
 ## My experience:
 [Rss aggregator](https://github.com/Konstantin-Gromakovskiy/Rss-aggregator) - An application for reading and managing RSS feeds.\
