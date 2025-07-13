@@ -3,10 +3,10 @@
 
 ## Frontend-developer 
 
-A frontend developer with a sincere love for my work. In my work, I appreciate the opportunity to be useful to clients and a team, and the opportunity to create convenient and useful products! My past experience working with people has taught me how to build productive communication, decompose and digitize tasks and build a roadmap to achieve goals.
-
-During the practice, I created several applications and mastered the basic and advanced aspects of development. I use TDD in development, I write structured and easy-to-read code. I am not afraid to master new technologies and apply them in practice.
-I want to continue my development in a new team and solve business problems for the success of the company!
+I'm a frontend developer (React, TypeScript, Redux) and tutor for students in [Hexlet](https://github.com/Hexlet) who genuinely loves what I do. I value the opportunity to create user-friendly and meaningful products that help clients and support the team.
+I enjoy collaborating with teammates, breaking down tasks into clear steps, and turning them into working digital solutions.
+I write clean, readable code and constantly explore new technologies to improve my skills.
+I thrive in friendly teams and always aim to bring value to the business through thoughtful development and communication
 
 * Russia, Moscow
 * My contacts:
@@ -14,12 +14,7 @@ I want to continue my development in a new team and solve business problems for 
   * email: k.gromakovskiy@yandex.ru
  
 ## My skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jquery,vite,sass,jest,bootstrap,babel,git,ts,webstorm&perline=7)](https://skillicons.dev)
-
-## My experience:
-[Rss aggregator](https://github.com/Konstantin-Gromakovskiy/Rss-aggregator) - An application for reading and managing RSS feeds.\
-[Difference finder](https://github.com/Konstantin-Gromakovskiy/Difference-finder) - CLI-application is designed to compare two files and output the result in different formats.\
-[Brain-games](https://github.com/Konstantin-Gromakovskiy/Brain-games) - A console application on node.js built on the principle of popular mobile applications for brain pumping.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,neovim,vite,sass,jest,bootstrap,babel,git,ts,webstorm,redux&perline=8)](https://skillicons.dev)
 
 
 <!--
