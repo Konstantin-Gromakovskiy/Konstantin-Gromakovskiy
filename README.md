@@ -16,6 +16,8 @@ I thrive in friendly teams and always aim to bring value to the business through
 ## My skills: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,docker,nodejs,nextjs,neovim,vite,sass,jest,bootstrap,babel,git,ts,webstorm,redux,go&perline=9)](https://skillicons.dev)
 
+<!--![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Konstantin_gromakovskiy&theme=dark)
+
 
 <!--
 **Konstantin-Gromakovskiy/Konstantin-Gromakovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
